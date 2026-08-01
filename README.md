@@ -58,12 +58,14 @@ Voice Output
 
 ## Project Structure
 
-Voice-AI-Assistant/
-│
-├──app.py
-├── requirements.txt
-├── README.md
-├── .env.example
+app.py
+
+requirements.txt
+
+README.md
+
+.env.example
+
  output png
 
 
