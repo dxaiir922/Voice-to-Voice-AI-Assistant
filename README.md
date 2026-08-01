@@ -3,7 +3,8 @@
 
 ## Project Overview
 
-This project implements a Voice-to-Voice AI Assistant using Python. The assistant listens to the user's voice, converts it into text, sends the text to a Large Language Model (LLM) using the Cohere API, generates an intelligent response, and finally converts the response back into speech.
+This project implements a Voice-to-Voice AI Assistant using Python. The assistant listens to the user's voice, converts it into text, sends the text to a Large Language Model (LLM) using the Cohere API
+generates an intelligent response, and finally converts the response back into speech.
 
 The project demonstrates the complete Voice-to-Voice interaction pipeline.
 
@@ -17,7 +18,7 @@ The project demonstrates the complete Voice-to-Voice interaction pipeline.
 - Real-time voice interaction
 - Continuous conversation
 
----
+
 
 ## Technologies Used
 
@@ -57,14 +58,14 @@ Voice Output
 
 ## Project Structure
 
-```text
 Voice-AI-Assistant/
 │
 ├──app.py
 ├── requirements.txt
 ├── README.md
 ├── .env.example
- screenshot.png
+ output png
+
 
 
 ## Installation
@@ -104,5 +105,3 @@ The generated response is converted into speech using RealtimeTTS, allowing the 
 - Microphone
 - Internet connection
 - Cohere API Key
-
----
